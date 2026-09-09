@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**omupare56/omupare56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**paste mat karna.**  
+Sirf README ke andar ka actual content paste karna.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Paste karne ke baad
+
+Editor ke upar jo:
+
+**Edit | Preview**
+
+dikh raha hai, usme **Preview** par click karo.
+
+Wahan tumhe check karna hai:
+
+- Header banner show ho raha hai
+- Purple typing animation/image show ho rahi hai
+- Badges show ho rahe hain
+- About section proper hai
+- Projects collapsible hain
+- GitHub stats load ho rahe hain
+- Tables properly render ho rahe hain
+
+### Phir mujhe screenshot bhejna
+
+**Abhi Commit Changes mat karo.**
+
+Pehle **Preview ka screenshot bhej**. Main check karke bataunga kya-kya fix karna hai, especially jo links/badges abhi generic hain.
